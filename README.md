@@ -2,10 +2,11 @@
 
 Для работы использовал Python 3. 10 При поддержке библиотек:
 
--numpy 
--matplotlib.pyplot 
--sklearn 
--tensorflow 
+-numpy
+-matplotlib.pyplot
+-sklearn
+-tensorflow
+
 Запускать через командную строку python number.py и python print_number.py
 
 ЧИСЛОВЫЕ ЗНАЧЕНИЯ number.py разработана на чистом питоне и numpy, работает от значения x которое передается в строке 160 принимает значение класса из строки 164. Обучалась с помощью датасета sklearn iris (Только там я смог найти нормальные значения для её обучения)
